@@ -18,8 +18,8 @@
 ## Connect with Me
 <p align="left">
 <a href="https://gauravmishra.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-38FDD8?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/gaurav-mishra-2668691b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/_mishraagaurav/" target="_blank"><img src="https://img.shields.io/badge/Instagram-38FDD8?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/mishragaurav08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/mishragaurav08/" target="_blank"><img src="https://img.shields.io/badge/Instagram-38FDD8?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
 <a href="mailto:gaurav84294372@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
 </p>
 
@@ -54,15 +54,15 @@
 
 <p align="center">
   <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=gauravMishra08&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=mishragaurav08&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravMishra08&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishragaurav08&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
 <p align="center">
-  <img src="https://pacman.abozanona.me?username=gauravMishra08" />
+  <img src="https://pacman.abozanona.me?username=mishragaurav08" />
 </p>
