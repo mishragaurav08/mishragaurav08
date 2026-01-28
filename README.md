@@ -53,7 +53,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/>
+  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=mishragaurav08&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=mishragaurav08&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
