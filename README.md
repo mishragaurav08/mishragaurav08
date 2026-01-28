@@ -7,10 +7,17 @@
 
 ---
 
-## What I’m Working On
+## What I’m Currently Working On
 
-- **Studique** → A campus utility platform used by 15,000+ monthly active users, focused on internal systems, workflows, and scalability.
-- **Product & Systems Engineering** → Building real-world applications with ownership across product decisions, system architecture, and execution.
+- **Systems & Product Engineering** → Building and refining real-world applications with a focus on internal platforms, system structure, and long-term maintainability.
+
+---
+
+## Background
+
+- Experience building and owning a large-scale internal platform used by **15,000+ monthly active users**, with responsibility across product decisions, system structure, and end-to-end execution.
+- Research Intern experience at **Samsung R&D Institute India**, working on applied ML systems for network traffic analysis.
+- Strong interest in scalable systems and internal platforms that support **real businesses** through clarity, ownership, and operational impact.
 
 ---
 
