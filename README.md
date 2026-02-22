@@ -1,5 +1,4 @@
 <h1 align="left">Gaurav Mishra</h1>
-<h3 align="left">Product Engineer · Systems & Internal Platforms</h3>
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="100%" style="border-radius:12px;">
