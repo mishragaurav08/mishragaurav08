@@ -8,15 +8,15 @@
 
 ## What I’m Currently Working On
 
-- **Systems & Product Engineering** → Building and refining real-world applications with a focus on internal platforms, system structure, and long-term maintainability.
+- I’m building Interact, a hackathon platform where participants discover events, build teams, and interact with people, while organizers launch and manage events end-to-end.
+
 
 ---
 
 ## Background
 
-- Experience building and owning a large-scale internal platform used by **15,000+ monthly active users**, with responsibility across product decisions, system structure, and end-to-end execution.
-- Research Intern experience at **Samsung R&D Institute India**, working on applied ML systems for network traffic analysis.
-- Strong interest in scalable systems and internal platforms that support **real businesses** through clarity, ownership, and operational impact.
+- I’ve built and shipped products used by thousands, including a campus platform with 15,000+ monthly users.
+- I’ve worked with teams at Apple SDP, Samsung PRISM, and Infosys, learning how to build things that are simple, reliable, and useful.
 
 ---
 
@@ -39,24 +39,38 @@
 ## Tools & Skills
 
 <p align="left">
+<!-- Design -->
 <img src="https://img.shields.io/badge/Figma-FF652F?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer-FF652F?style=flat-square&logo=framer&logoColor=white"/>
 
+<!-- iOS -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/UIKit-007AFF?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<!-- Web -->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+
+<!-- Backend / Tools -->
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF652F?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<!-- Styling -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<!-- Dev Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
-
 ## GitHub Activity
 
 <p align="center">
