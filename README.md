@@ -8,15 +8,21 @@
 
 ## What I’m Currently Working On
 
-- I’m building Interact, a hackathon platform where participants discover events, build teams, and interact with people, while organizers launch and manage events end-to-end.
-
+- **Interact (App Store)**
+  An iOS application built using SwiftUI and native Apple frameworks. It acts as a hackathon platform that helps developers, designers, and builders discover events, match with potential teammates based on shared interests and skills, and manage event operations. You can find it on the [App Store](https://apps.apple.com/us/app/interact-talent-meets-impact/id6761535869).
 
 ---
 
 ## Background
 
-- I’ve built and shipped products used by thousands, including a campus platform with 15,000+ monthly users.
-- I’ve worked with teams at Apple SDP, Samsung PRISM, and Infosys, learning how to build things that are simple, reliable, and useful.
+- **Product Designer and Frontend Developer**
+  I focus on building products from early conceptual drawings in Figma to high-fidelity design systems, clean React/Next.js frontend applications, and native iOS codebases. I aim to bridge the division between visual product design and robust systems engineering.
+
+- **Apple and Infosys iOS Developer Program (Cohort 4)**
+  One of 100 students selected out of 2,000+ applicants for a year-long intensive developer program. Designed and developed multiple App Store-ready products, working in a Mac Lab environment with daily design and code reviews. This included a one-month internship at the Infosys Mysore campus.
+
+- **Samsung R&D Institute India (PRISM Graduate)**
+  Worked as a Research Intern for 10 months on AI, machine learning, and network systems for Deep Packet Inspection (DPI). Collaborated in a team of students, faculty mentors, and Samsung engineers, culminating in a Certificate of Excellence.
 
 ---
 
@@ -57,12 +63,14 @@
 
 <!-- Backend / Tools -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-FF652F?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <!-- Styling -->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
 <!-- Dev Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
