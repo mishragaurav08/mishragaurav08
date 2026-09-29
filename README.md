@@ -13,16 +13,16 @@ Currently working on **Studique**, a campus platform used by **30,000+ students*
 ## Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/Figma-38FDD8?style=flat-square&logo=figma&logoColor=black"/>
-<img src="https://img.shields.io/badge/Swift-38FDD8?style=flat-square&logo=swift&logoColor=black"/>
-<img src="https://img.shields.io/badge/SwiftUI-38FDD8?style=flat-square&logo=swift&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-38FDD8?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-38FDD8?style=flat-square&logo=nextdotjs&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-38FDD8?style=flat-square&logo=typescript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-38FDD8?style=flat-square&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase-38FDD8?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-38FDD8?style=flat-square&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/Xcode-38FDD8?style=flat-square&logo=xcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-EF7D19?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-EF7D19?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-EF7D19?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-EF7D19?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-EF7D19?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-EF7D19?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-EF7D19?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-EF7D19?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-EF7D19?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-EF7D19?style=flat-square&logo=xcode&logoColor=white"/>
 </p>
 
 ## GitHub Activity
@@ -36,13 +36,13 @@ Currently working on **Studique**, a campus platform used by **30,000+ students*
 
 <p align="left">
 <a href="https://gauravmishra.dev/">
-<img src="https://img.shields.io/badge/Portfolio-38FDD8?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-EF7D19?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mishragaurav08/">
-<img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-EF7D19?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://figma.com/@mishragaurav08">
-<img src="https://img.shields.io/badge/Figma-38FDD8?style=for-the-badge&logo=figma&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-EF7D19?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 </p>
 
